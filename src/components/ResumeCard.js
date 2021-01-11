@@ -1,6 +1,6 @@
 
 import React from 'react';
-import Resume from "../assets/samantha_apuzzo_resume.pdf"
+import Resume from "../assets/samantha_apuzzo_resume.png"
 
 
 

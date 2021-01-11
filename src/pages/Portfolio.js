@@ -1,4 +1,3 @@
-
 import Projects from "../models/projects";
 import ProjectCard from "../components/ProjectCard";
 
