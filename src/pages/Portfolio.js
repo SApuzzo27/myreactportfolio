@@ -8,7 +8,7 @@ function Portfolio () {
         <div className="container-fluid conport">
             <div id="maintitle" className="row">
                 <div className="col-sm-12">
-                    <h3>- here's the tea -</h3>
+                    <h3>- the works  -</h3>
                     <div className="row portrow">
                     {Projects.map((proj) => (
                         < ProjectCard project={proj} />

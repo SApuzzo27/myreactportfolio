@@ -1,7 +1,7 @@
 import DevourIt from "../assets/burgerpage.png";
-import DayScheduler from "../assets/homeworkFive_screenShot.png";
+import DayScheduler from "../assets/workDayScheduler.png.png";
 import Weather from "../assets/weatherDashboard.png";
-import Employee from "../assets/employeeDirectory.png";
+import Employee from "../assets/employeedirectory.png";
 import Password from "../assets/passwordGenerator.png" ;
 import PlaniT from "../assets/planit.png";
 

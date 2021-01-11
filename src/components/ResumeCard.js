@@ -9,7 +9,7 @@ return (
     <section className="container-fluid resumeblock">
         <div id="maintitle" className="row">
         <div className="col-sm-12">
-            <h3>- my resume -</h3>
+            <h3>- Resume -</h3>
         </div>
         </div>
         <div className="row">
