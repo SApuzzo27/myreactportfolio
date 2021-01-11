@@ -1,6 +1,8 @@
 # myreactportfolio
 
 Live Link to deployed app here : https://sapuzzo27.github.io/myreactportfolio/
+
+![](https://github.com/SApuzzo27/myreactportfolio/blob/main/../../../../desktop/development/Homework/myreactportfolio/src/assets/reactportbiopage.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
