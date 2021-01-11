@@ -8,6 +8,7 @@
     "@testing-library/user-event": "^12.1.10",
     "babel": "^6.23.0",
     "bootstrap": "^4.5.3",
+    "bootstrap-react": "^0.5.0-alpha.14",
     "class-utils": "^0.3.6",
     "fontawesome": "^5.6.3",
     "ghpages": "0.0.10",

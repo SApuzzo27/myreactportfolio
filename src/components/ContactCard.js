@@ -1,4 +1,3 @@
-  
 function ContactCard () {
     return (
         <div className="container-fluid">
@@ -10,7 +9,7 @@ function ContactCard () {
             <hr/>
             <form id="contactme">
                 <div className="form-group">
-                    <label for="nameInput">First & Last Name</label>
+                    <label for="nameInput">Name</label>
                     <input type="text" className="form-control" id="nameInput" placeholder="Name"/>
                     <small id="nameInputSmall" className="form-text text-muted"></small>
                 </div>
@@ -22,7 +21,7 @@ function ContactCard () {
                     <label for="messageInput">Message</label>
                     <input type="text" className="form-control" id="messageInput" placeholder="Message"/>
                 </div>
-                <button className="sendbutton" type="submit" onclick="formSubmit()">Send</button>
+                <button className="sendbutton" type="submit" onClick="formSubmit()">Send</button>
             </form>
         </div> 
     )
