@@ -1,4 +1,5 @@
-const URL = [
+const Socialmedia = [
+   
     {
 
     name: "facebook",
@@ -16,4 +17,4 @@ const URL = [
 
 ]
 
-
+export default Socialmedia;
