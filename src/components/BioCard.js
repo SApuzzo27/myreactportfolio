@@ -19,7 +19,7 @@ function BioCard () {
                 <p>I am currently enrolled in a Full Stack Web Development Program through Columbia University</p>
                 <p>I enjoy all things creative and I'm loving front end development.</p>
                 <p>I'm excited for this journey and to see where it takes me!!!</p>
-                <p>Check out my portfolio page for some of the work I have done... hoover over each project to find the link bringing you straight to the source.</p>          
+                <p>Check out my portfolio page for some of the work I have done... hover over each project to find the link bringing you straight to the source.</p>          
             </div>
             </div>  
         </section>
