@@ -15,6 +15,7 @@ function App() {
       <div>
         < Header/>
           < Switch>
+            < Route exact path="/myreactportfolio" component={About} />
             < Route exact path="/" component={About} />
             < Route exact path="/about" component={About} />
             < Route exact path="/resume" component={Resume} />

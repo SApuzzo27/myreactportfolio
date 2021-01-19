@@ -180,6 +180,20 @@ p {
   label {
       font-size: 24px;
   }
+
+  .portpic {
+    margin: 0px;
+    margin-bottom: 15px;
+}
+
+.livelink {
+    align-items: center;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 8px 15px 8px 15px;
+    
+    
+}
 /* Contact Page */
 
 @media all and (max-width: 1020px) {
@@ -267,8 +281,5 @@ p {
         height: 60px;
     }
 
-    .portpic {
-        margin: 0px;
-        margin-bottom: 15px;
-    }
+ 
 }

@@ -2,7 +2,7 @@ import ContactCard from "../components/ContactCard";
 
 function Contact () {
     return (
-        < ContactCard/>
+        < ContactCard />
     )
 };
 
