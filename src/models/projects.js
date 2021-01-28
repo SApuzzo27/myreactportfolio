@@ -5,10 +5,16 @@ import Employee from "../assets/employeedirectory.png";
 import Password from "../assets/passwordGenerator.png" ;
 import PlaniT from "../assets/planiT.png";
 import GBR from "../assets/googlereactappscreenshot.png"
-
+import CPC from "../assets/CouchPotatoesAppPage.png"
 
 
 const Projects = [
+    {
+        name: "Couch Potato Club",
+        img: CPC,
+        git: "https://github.com/SApuzzo27/project3.git",
+        live: "https://fathomless-tor-50802.herokuapp.com/",
+    },
     {
         name: "Google Book Search",
         img: GBR,

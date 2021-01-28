@@ -1,5 +1,5 @@
 import React from 'react';
-import headshot from "../assets/headshot2.png";
+import headshot from "../assets/biopic.png";
 
 
 function BioCard () {
