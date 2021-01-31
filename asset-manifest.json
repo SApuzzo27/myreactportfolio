@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/myreactportfolio/static/css/main.e4f88c9b.chunk.css",
-    "main.js": "/myreactportfolio/static/js/main.06a4274d.chunk.js",
-    "main.js.map": "/myreactportfolio/static/js/main.06a4274d.chunk.js.map",
+    "main.js": "/myreactportfolio/static/js/main.b7df2106.chunk.js",
+    "main.js.map": "/myreactportfolio/static/js/main.b7df2106.chunk.js.map",
     "runtime-main.js": "/myreactportfolio/static/js/runtime-main.db3d49ec.js",
     "runtime-main.js.map": "/myreactportfolio/static/js/runtime-main.db3d49ec.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/myreactportfolio/static/css/2.20aa2d7b.chunk.css",
@@ -21,7 +21,7 @@
     "static/media/googlereactappscreenshot.297155f4.png": "/myreactportfolio/static/media/googlereactappscreenshot.297155f4.png",
     "static/media/passwordGenerator.ebf47f42.png": "/myreactportfolio/static/media/passwordGenerator.ebf47f42.png",
     "static/media/planiT.53da83dd.png": "/myreactportfolio/static/media/planiT.53da83dd.png",
-    "static/media/samantha_apuzzo_resume.eff58453.pdf": "/myreactportfolio/static/media/samantha_apuzzo_resume.eff58453.pdf",
+    "static/media/samantha_apuzzo_resume.fa371c5d.pdf": "/myreactportfolio/static/media/samantha_apuzzo_resume.fa371c5d.pdf",
     "static/media/weatherdashboard.acb99fb8.png": "/myreactportfolio/static/media/weatherdashboard.acb99fb8.png",
     "static/media/workDayScheduler.66f021aa.png": "/myreactportfolio/static/media/workDayScheduler.66f021aa.png"
   },
@@ -30,6 +30,6 @@
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.87b4ecbf.chunk.js",
     "static/css/main.e4f88c9b.chunk.css",
-    "static/js/main.06a4274d.chunk.js"
+    "static/js/main.b7df2106.chunk.js"
   ]
 }
