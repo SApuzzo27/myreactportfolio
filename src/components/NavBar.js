@@ -5,7 +5,7 @@ function NavBar () {
 
     return (
         <nav className="navbar navbar-expand-md navbar-light bg-light">
-        <p className="navbar-brand">SAMANTHA &nbsp;&nbsp; APUZZO </p>
+        <p className="navbar-brand">SAMANTHA &nbsp; APUZZO </p>
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
         <span className="navbar-toggler-icon"></span>
         </button>

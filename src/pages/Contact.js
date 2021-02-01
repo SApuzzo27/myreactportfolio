@@ -1,8 +1,8 @@
-import ContactCard from "../components/ContactCard";
+import MyForm from "../components/ContactCard";
 
 function Contact () {
     return (
-        < ContactCard />
+        < MyForm />
     )
 };
 

@@ -60,7 +60,7 @@ footer {
 }
 
 button:hover{
-    color: #d285f5;
+    color: #f8f8f8;
 }
 
 
@@ -107,13 +107,12 @@ p {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.resumeblock {
-    margin-bottom: 175px;
-}
 
 .resume {
     margin-left: 25px;
     margin-top: 20px;
+    height: 125%;
+    padding-bottom: 20px;
     
 }
 /* About Me Page */
@@ -139,48 +138,59 @@ p {
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
     text-align: center;
-  }
+    }
 
-  .col-md-4:hover .portpic {
+    .col-md-4:hover .portpic {
     opacity: 0.3;
-  }
+    }
 
-  .col-md-4:hover .middle {
+    .col-md-4:hover .middle {
     opacity: 1;
-  }
+    }
 
-  .text {
-      color: black;
-      font-size: 24px;
-      font-family: Arial, Helvetica, sans-serif;
-      background-color: #d285f5;
-      padding: 8px 15px 8px 15px;
-  }
+    .text {
+    color: black;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #d285f5;
+    padding: 8px 15px 8px 15px;
+    }
+
 /* Portfolio Page */
 
 /* Contact Page */
-  form {
-      padding: 20px;
-  }
+    .MyForm {
+        padding: 10px;
+     
+    }
 
   .sendbutton {
       background-color: #d285f5;
       border: none;
       width: 120px;
-      height: 70px;
+      height: 50px;
       font-size: 30px;
       font-family: Arial, Helvetica, sans-serif;
-      margin: 20px;
+      margin: 35px;
   }
 
   button:hover {
       border: 2px solid #616363;
   }
 
-  label {
-      font-size: 24px;
+  .formContent {
+     margin-left: 30%
   }
 
+    label {
+        font-size: 24px;
+    }
+
+    #messageInput {
+        height: 200px;
+    }
+
+  
   .portpic {
     margin: 0px;
     margin-bottom: 15px;
@@ -273,5 +283,4 @@ p {
         height: 60px;
     }
 
- 
 }

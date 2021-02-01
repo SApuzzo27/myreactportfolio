@@ -4,8 +4,9 @@ function ProjectCard ({project}) {
         <div className="col-md-4">
             <img className="portpic" src={project.img} alt={project.name}/>
                 <div className="middle">
-                            <a className="text" href={project.live}>{"Live Link/"}</a>
-                            <a className="text" href={project.git}>{project.name}</a>
+                            <a className="text" href={project.live}>{"live link"}</a>
+                            <br />
+                            <a className="text" href={project.git}>{" github"}</a>
             </div>
                 
         </div>
