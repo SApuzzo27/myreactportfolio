@@ -167,6 +167,7 @@ p {
   .sendbutton {
       background-color: #d285f5;
       border: none;
+      text-align: center;
       width: 120px;
       height: 50px;
       font-size: 30px;
